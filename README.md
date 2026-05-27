@@ -1,3 +1,4 @@
+
 # CMPIF2100 Lab Transcriber
 
 A small Windows python app for turning lecture recordings into text transcripts using a local Whisper model. Double-click, pick a `.wav`, pick a destination folder, click Transcribe.
