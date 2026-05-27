@@ -1,3 +1,4 @@
+<p align="center"><img width="336" height="420" alt="Coding Man" src="https://github.com/user-attachments/assets/dccc4286-f8ed-4887-b236-0f7482db4870" /></p>
 
 # CMPIF2100 Lab Transcriber
 
